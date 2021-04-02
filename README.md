@@ -1,1 +1,1 @@
-# mathematical_opt_tutorial
+# Mathematical Optimization Tutorial
